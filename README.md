@@ -7,7 +7,7 @@ Deps is in development still, i cannot guarentee 100% functionability.
 
 # Installation
 ```bash
-git clone https://github.com/<your-username>/Deps.git
+git clone https://github.com/lucy407/deps.git
 cd Deps
 
 Install required packages (if any):
